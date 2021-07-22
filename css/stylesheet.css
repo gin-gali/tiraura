@@ -1,7 +1,7 @@
-header {
-    margin: 0 auto;
-}
-
-header p {
-    color: blue;
-}
+h1 {
+    color: #ff0000;
+  }
+  
+  p {
+    color: #0000ff;
+  }
