@@ -1,3 +1,19 @@
+.header-wrapper {
+  top: 0;
+  padding: 12px;
+  align-items: center;
+  display: flex;
+  position: fixed;
+  width: 100%;
+  height: 1em;
+  background-color: aqua;
+}
+
 .header-left  a {
   text-decoration: none;
+  padding: ;
+}
+
+.header-right {
+  color: brown;
 }
