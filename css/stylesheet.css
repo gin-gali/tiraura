@@ -11,9 +11,13 @@
 
 .header-left  a {
   text-decoration: none;
-  padding: ;
+  padding: 24px;
+  float: left;
 }
 
-.header-right {
+.header-right li {
+  list-style: none;
   color: brown;
+  padding: 24px;
+  float: right;
 }
