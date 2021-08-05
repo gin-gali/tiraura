@@ -19,5 +19,6 @@
   list-style: none;
   color: brown;
   padding: 24px;
-  float: right;
+  float: left;
+  align-items: center;
 }
