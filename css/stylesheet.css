@@ -15,9 +15,14 @@
   float: left;
 }
 
+.header-right {
+  height: auto;
+}
+
 .header-right li {
   list-style: none;
   color: brown;
+  display: flex;
   padding: 24px;
   float: left;
   align-items: center;
