@@ -1,6 +1,12 @@
-let number = 1;
+{
+    let i = 0;
+    function showTime() {
+        console.log(new Date());
+        i++;
+        if (i>2) {
+            clearInterval(intervalID)
+        }
+    }
 
-while (number <= 100) {
-    console.log(number);
-    number += 3;
+    const intervalID = setInterval(showTime, 1000);
 }
